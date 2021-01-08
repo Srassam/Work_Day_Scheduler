@@ -1,6 +1,6 @@
 # Work_Day_Scheduler
 
-* In this project we created a work day scheduler. user is able to create to do itmes for specific time of the day. User is able to save to local storage. Time blocks change color as you progress during a working day.
+* In this project we created a work day scheduler. user is able to create todo itmes for specific time of the day. User is able to save to local storage. Time blocks change color as you progress during a working day.
 ## The User Story:
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
